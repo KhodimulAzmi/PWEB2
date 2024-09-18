@@ -1,7 +1,7 @@
 <i><h1>PEMOGRAMAN WEB II</h1></i>
 <h2>Object Oriented Programming</h2>
 <p>
-Pemrograman Berorientasi Objek (OOP) adalah paradigma pemrograman yang menggunakan "objek" untuk merancang aplikasi dan program.
+<b>Pemrograman Berorientasi Objek (OOP)</b> adalah paradigma pemrograman yang menggunakan "objek" untuk merancang aplikasi dan program.
 Konsep utamanya mencakup objek yang merupakan entitas dengan atribut (data) dan metode (fungsi) yang beroperasi pada data tersebut.
 Kelas berfungsi sebagai cetak biru untuk membuat objek, mendefinisikan atribut dan metode yang dimiliki objek.
 </p>
